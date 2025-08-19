@@ -21,7 +21,7 @@ This project uses deep learning and computer vision to detect human emotions fro
 - Detected faces are annotated with bounding boxes and emotion labels
 - Live video feed displays results in real time
 
-- 😎 Supported Emotions
+  😎 Supported Emotions
 - Neutral
 - Happiness
 - Surprise
@@ -35,4 +35,4 @@ This project uses deep learning and computer vision to detect human emotions fro
 - RFB-320: SSD-based face detector with receptive field blocks
 - emotion-ferplus-8.onnx: Pretrained emotion classifier based on FER+ dataset
 
-- ##👨‍💻 AuthorDeveloped by @Aritay231 Feel free to reach out or fork the project for your own experiments!##
+  ##👨‍💻 AuthorDeveloped by @Aritay231 Feel free to reach out or fork the project for your own experiments!##
