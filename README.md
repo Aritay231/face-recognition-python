@@ -1,6 +1,8 @@
 😊 Emotion Detection from Facial Expressions
 This project uses deep learning and computer vision to detect human emotions from facial expressions in real time. It combines face detection with expression classification using ONNX models and OpenCV, enabling fast and accurate emotion recognition.
 
+**You should download __emotion-ferplus-8.onnx__ to use this project**
+
 🔍 Overview
 - 🎥 Real-time face detection using RFB-320
 - 🧠 Emotion classification with emotion-ferplus-8.onnx
